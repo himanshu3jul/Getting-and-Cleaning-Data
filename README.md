@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Course Project
 
-This is the project for the Getting and Cleaning Data Coursera course. The R script, `run_analysis.R`, does the following:
+This is the project for the Getting and Cleaning Data Coursera course. Before running the script, please download required packages resharep2 and plyr. The script, `run_analysis.R`, does the following:
 
 1. Download the dataset
 2. Loads the activity and feature info
